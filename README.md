@@ -2,6 +2,8 @@
 
 A real-time messaging application built with React, TypeScript, and Node.js that mimics the core functionality and UI of WhatsApp Web.
 
+🌐 **Live Demo:** [https://whats-app-web-clone-eta-azure.vercel.app](https://whats-app-web-clone-eta-azure.vercel.app)
+
 ## Features
 
 - 💬 Real-time messaging using Socket.IO
