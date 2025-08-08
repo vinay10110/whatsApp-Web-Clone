@@ -5,7 +5,6 @@ A real-time messaging application built with React, TypeScript, and Node.js that
 ## Features
 
 - 💬 Real-time messaging using Socket.IO
-- 🎨 WhatsApp-like UI with dark/light mode support
 - 📱 Responsive design for all screen sizes
 - ✅ Message read receipts
 - 🕒 Message timestamps
@@ -40,7 +39,7 @@ A real-time messaging application built with React, TypeScript, and Node.js that
 1. Clone the repository
 ```bash
 git clone [repository-url]
-cd konnect-ai-main
+cd WhatsApp Clone
 ```
 
 2. Install frontend dependencies
@@ -85,7 +84,7 @@ npm run dev
 ## Project Structure
 
 ```
-konnect-ai-main/
+WhatsApp Clone/
 ├── src/                    # Frontend source code
 │   ├── api/               # API integration
 │   ├── components/        # React components
@@ -119,14 +118,6 @@ konnect-ai-main/
 - Message history with infinite scroll
 - Chat organization and preview
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - WhatsApp Web for design inspiration
@@ -140,17 +131,5 @@ This project is built with:
 - Vite
 - TypeScript
 - React
-- shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/ef2cbf7e-ba22-4e83-a412-703c824427a7) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
